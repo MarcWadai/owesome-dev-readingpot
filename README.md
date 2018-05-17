@@ -1,18 +1,13 @@
 # Owesome-dev-readingpot
 
-This project is aimed to regroup articles and books summary about software, system, development etc into one places. It is not exactly the same as an awesome list, but close to it. If you are also annoyed by having 1000 tabs open, and the need to navigate and find good information in each website, this place is for you.
-Of course all the credit goes to the original article author.
+This project is aimed to regroup into one place, articles about software, system, development that I enjoyed and found very usefull about a topic.
+Instead of a usual awesome list with only links. In this project I will try to summarise each links that are going to be cited and separate them into predefined category
 
 ----
 # Table of contents
-This is just an idea of how we can organize it, any ideas of improvement are welcome !
+Suggestion about how we can improve the structure are more than welcome
 
-# Naming convention
-##### Below are examples of how I am going to name the articles :
-- Each article have a `TITLE` which is the most significant about the subject
-- We can have different `TYPES` of articles (BOOK SUMMARY, TECH) 
+----
 
-=> `TITLE - TYPE`
+# Organization
 
-# Beginning of an article
-We will put a date at the top of each article, the author and the orginal link where you can find the article
